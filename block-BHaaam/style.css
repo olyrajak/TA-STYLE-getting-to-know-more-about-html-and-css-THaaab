@@ -1,0 +1,62 @@
+body {
+  margin: 20px;
+}
+
+header {
+  font-size: 18px;
+  margin: 10px;
+}
+header a {
+  color: blue;
+  font-weight: bold;
+  font-size: 17px;
+  margin: 5px;
+  /* margin-top: 20px; */
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.secondp {
+  font-size: 15px;
+  font-style: italic;
+  margin: 10px;
+}
+
+.firstp {
+  font-size: 15px;
+  font-style: italic;
+  margin: 10px;
+}
+.main_header {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #09698c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.footer_link {
+  margin: 5px;
+  color: white;
+}
+.service_background {
+  background-color: rgb(208, 208, 253);
+}
+.about_background {
+  background-color: rgb(196, 237, 171);
+}
+.contact_background {
+  background-color: rgb(253, 227, 222);
+}
+
+.home_background {
+  background-color: rgb(247, 221, 236);
+}
